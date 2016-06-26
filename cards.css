@@ -1,0 +1,18 @@
+
+article {
+	display: flex;
+}
+
+.card {
+	height: 200px;
+	width: 25%;
+	border: solid black 1px;
+	border-radius: 5%;
+	text-align: center;
+	background-color: blue;
+}
+
+.h1 {
+	color: lightgreen;
+
+}
